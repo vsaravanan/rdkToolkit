@@ -1,7 +1,7 @@
 
-![homepage](screenshots/homepage?raw=true)
+![homepage](screenshots/homepage.png?raw=true)
 
-![addnew](screenshots/addnew?raw=true)
+![addnew](screenshots/addnew.png?raw=true)
 
 # "React Redux Toolkit for Beginners"
 
